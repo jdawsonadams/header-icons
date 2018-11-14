@@ -8,6 +8,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 h1 {
   font-size: 2rem;
   font-weight: bold;
@@ -21,7 +25,6 @@ img {
   display: flex;
   justify-content: space-between;
   width: 40px;
-  display: inline-block;
 }
 
 nav {
