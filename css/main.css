@@ -51,7 +51,7 @@ ul {
   display: inline-block;
   display: flex;
   justify-content: space-between;
-  padding:.5em;
+  padding: .5em;
 }
 
 .header {
@@ -63,8 +63,4 @@ ul {
 a:hover {
   background-color: #a63f38;
   padding: .5em;
-}
-
-.btn a {
-  padding; 2em;
 }
