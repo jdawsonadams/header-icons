@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+  font-family: Merriweather, serif;
+  color: #fff;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: solid 1px #a63f38;
+  padding: .5em;
+}
+
+img {
+  display: flex;
+  justify-content: space-between;
+  width: 40px;
+  display: inline-block;
+}
+
+nav {
+  background-color: #d05c2e;
+}
+
+ul a {
+  text-decoration: none;
+  color: #fff;
+}
+
+ul {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.btn {
+  font-size: 1.125rem;
+  display: inline-block;
+}
